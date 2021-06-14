@@ -18,7 +18,9 @@ a {
 
 .button{
 background-color: blue;
+font-weight: bolder;
 padding: 20px;
+margin-top: 10px;
 border-radius: 10px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -52,8 +54,9 @@ text-align: center;
 .title{
 	background-color: rgb(181, 135, 222);
 	border-radius: 10px;
-	padding-top: 2mm;
-	padding-bottom: 2mm;
+	font-weight: bolder;
+	padding-top: 3mm;
+	padding-bottom: 3mm;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -72,10 +75,25 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 .heading{
 	font-size: 80px;
 	color: darkmagenta;
+	font-weight: bolder;
 	text-align: center;
 	padding-bottom: 18mm;
 	padding-top: 15mm;
 	letter-spacing: 3mm;
 	background-color: darkorange;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.introduction{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	color: darkmagenta;
+	font-size: 20px;
+	text-align: center;
+	background-color: orange;
+	margin-top: 20px;
+	font-family: Arial, Helvetica, sans-serif
+	
 }
